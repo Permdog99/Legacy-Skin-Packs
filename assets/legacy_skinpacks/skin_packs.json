@@ -331,11 +331,86 @@
       {"model": "legacy_skinpacks:skinpacks/halloween_charity/zombielonestarronimogames.cpmmodel"}
     ]
   },
-    "legacy_skinpacks:mineconskinpack": {
+  "legacy_skinpacks:mineconskinpack": {
     "icon": "legacy_skinpacks:textures/skinpack_icons/minecon_skinpack.png",
     "type": "skin",
     "skins": [
       {"model": "legacy_skinpacks:skinpacks/mineconskinpack/.cpmmodel"},
+    ]
+  },
+  "legacy_skinpacks:ps1": {
+    "icon": "legacy_skinpacks:textures/skinpack_icons/1.png",
+    "type": "skin",
+    "skins": [
+       {"model": "legacy_skinpacks:skinpacks/ps1/bentley.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/carmelitamontoyafox.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/chimera.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/chungkwan.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/cullangray.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/eddyraja.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/elenafisher.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/ericschweitzer.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/ethanmars.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/grim.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/helghastassaultinfantry.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/helghastsnowtrooper.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/jammer.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/josephcapelli.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/madisonpaige.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/murray.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/nathandrake.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/nathanhale.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/normanjay.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/parkyoonhee.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/ricovelasquez.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/scholarvisari.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/scottshelby.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/slycooper.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/tomassevchenko.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps1/zoranlazarevic.cpmmodel"}
+    ]
+  },
+  "legacy_skinpacks:ps2": {
+    "icon": "legacy_skinpacks:textures/skinpack_icons/2.png",
+    "type": "skin",
+    "skins": [
+       {"model": "legacy_skinpacks:skinpacks/ps2/athena.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/bill.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/bloater.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/captainqwark.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/clank.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/clicker.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/cole.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/drnefarious.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/eliie.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/gaia.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/hades.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/joel.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/kessler.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/kratos.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/kuo.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/nix.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/ratchet.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/tess.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/thebeast.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/wayfarer.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/wayfarer4thrank.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps2/zeus.cpmmodel"}
+    ]
+  },
+  "legacy_skinpacks:ps3": {
+    "icon": "legacy_skinpacks:textures/skinpack_icons/3.png",
+    "type": "skin",
+    "skins": [
+       {"model": "legacy_skinpacks:skinpacks/ps3/atoi.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps3/cyclops.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps3/daxter.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps3/iota.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps3/jak.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps3/scraponstilts.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps3/wendigo.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps3/yamato.cpmmodel"},
+       {"model": "legacy_skinpacks:skinpacks/ps3/yuna.cpmmodel"}
     ]
   },
 }
