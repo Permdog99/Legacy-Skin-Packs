@@ -1,0 +1,377 @@
+{
+    "festive:fsp": {
+        "icon": "festive:textures/skinpacks/fsp.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "festive:skinpacks/fsp/santa.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/mrsclaus.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/rudolph.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/reindeer.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/redelf.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/greenelf.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/snowgolem.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/zombiepudding.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/christmascreeper.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/christmasskeleton.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/santasteve.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/wintersteve.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/parkasteve.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/snowman.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/present.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/christmastree.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/christmaspudding.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/zombieturkey.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/robin.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/badsanta.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/gingerbreadman.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/gingerbreadwoman.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/scrooge.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fsp/marleysghost.cpmmodel"
+            }
+        ]
+    },
+   "festive:fmu": {
+        "icon": "festive:textures/skinpacks/fmu.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "festive:skinpacks/fmu/fatsanta.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/xmasherobrine.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/smallelf1.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/smallelf2.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/smallelf3.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/evilelf.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/greensanta.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/bluesanta.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/dasher.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/dancer.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/prancer.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/vixen.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/comet.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/cupid.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/donner.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/blitzen.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/rudolph.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/snowflake.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/stocking.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/candycanestick.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/bigfoot.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/yeti.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/krampus.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/stevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/tennisstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/tuxedostevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/athletestevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/scottishstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/prisonerstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/cycliststevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/boxerstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/alexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/tennisalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/tuxedoalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/athletealexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/scottishalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/prisoneralexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/cyclistalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/boxeralexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/skisteve.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/snowshoesteve.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/tomte.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/treefairy.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/fmu/skier.cpmmodel"
+            }
+        ]
+    },
+   "festive:f16": {
+        "icon": "festive:textures/skinpacks/f16.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "festive:skinpacks/f16/snowhohomansweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/cringlecreepercardigan.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/mistletoesthebigfoot.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/mrscoolclaus.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/coolclaus.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/comet.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/cupid.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/dancer.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/dasher.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/donner.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/blitzen.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/prancer.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/vixen.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/dishevelf.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/chriscringle.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/krampus.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/noelf.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/tinself.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/toastmistress.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/toastmaster.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/yuletideyeti.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/alexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/athletealexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/athletestevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/boxeralexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/boxerstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/candycanestick.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/cyclistalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/cycliststevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/greensanta.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/prisoneralexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/prisonerstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/scottishalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/scottishstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/skier.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/skisteve.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/smallelf2.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/smallelf3.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/snowflake.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/snowshoesteve.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/stevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/stocking.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/tennisalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/tennisstevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/treefairy.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/rudolph.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/tomte.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/tuxedostevexmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/tuxedoalexxmassweater.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/bluesanta.cpmmodel"
+            },
+            {
+                "model": "festive:skinpacks/f16/stevexmassweater2.cpmmodel"
+            }
+        ]
+    }
+}

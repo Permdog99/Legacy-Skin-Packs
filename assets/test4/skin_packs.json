@@ -1,0 +1,83 @@
+{
+    "test4:spb": {
+        "icon": "test4:textures/skinpacks/spb.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "test4:skinpacks/spb/partyplasticsteve.cpmmodel"
+            },
+            {
+                "model": "test4:skinpacks/spb/partyplasticcreeper.cpmmodel"
+            },
+            {
+                "model": "test4:skinpacks/spb/partyzombievillager.cpmmodel"
+            },
+            {
+   	        "model": "test4:skinpacks/spb/witch.cpmmodel"
+            },
+            {
+
+                "model": "test4:skinpacks/spb/partywitherskeleton.cpmmodel"
+            },
+            {
+                "model": "test4:skinpacks/spb/wither.cpmmodel"
+            },
+            {
+                "model": "test4:skinpacks/spb/partyredcat.cpmmodel"
+            },
+            {
+                "model": "test4:skinpacks/spb/partyblackcat.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/partysiamesecat.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/partyocelot.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/partyfidget.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/partydust.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/ratchet.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/clank.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/sackboy.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/sackgirl.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/slycooper.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/carmelitamontoyafox.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/bentley.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/kratos.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/zeus.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/gaia.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/redfucker.cpmmodel"
+	    },
+	    {
+	    	"model": "test4:skinpacks/spb/whitefucker.cpmmodel"
+
+	    }
+
+        ]
+    }
+}

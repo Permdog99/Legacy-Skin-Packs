@@ -1,0 +1,116 @@
+{
+    "mass:mef": {
+        "icon": "mass:textures/skinpacks/mef.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "mass:skinpacks/mef/maleshepard.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/femaleshepard.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/kaidan.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/talizorahnarrayya.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/liaratsoni.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/garrusvakarian.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/jamesvega.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/ashleywilliams.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/joker.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/jack.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/thanekrios.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/mirandalawson.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/samara.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/legion.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/sarenaterius.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/illusiveman.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/kaidan.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/husk.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/gethtrooper.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/gethprime.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/cerberusassaulttrooper.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/urdnotwrex.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/jacobtaylor.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/mordinsolus.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/grunt.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/zaeedmassani.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/kasumigoto.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/javik.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/banshee.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/morinth.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/ariatloak.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/drkarinchakwas.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/davidanderson.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/donneludina.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/collector.cpmmodel"
+            },
+            {
+                "model": "mass:skinpacks/mef/edi.cpmmodel"
+            }
+        ]
+    }
+}

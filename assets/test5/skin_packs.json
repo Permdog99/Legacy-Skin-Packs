@@ -1,0 +1,67 @@
+{
+    "test5:spb": {
+        "icon": "test5:textures/skinpacks/spb.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "test5:skinpacks/spb/jens.cpmmodel"
+            },
+            {
+                "model": "test5:skinpacks/spb/daniel.cpmmodel"
+            },
+            {
+                "model": "test5:skinpacks/spb/markusjb.cpmmodel"
+            },
+            {
+                "model": "test5:skinpacks/spb/aron.cpmmodel"
+            },
+            {
+                "model": "test5:skinpacks/spb/mattis.cpmmodel"
+            },
+            {
+   	        "model": "test5:skinpacks/spb/henrik.cpmmodel"
+            },
+            {
+
+                "model": "test5:skinpacks/spb/danielfrisk.cpmmodel"
+            },
+            {
+                "model": "test5:skinpacks/spb/jon.cpmmodel"
+            },
+            {
+                "model": "test5:skinpacks/spb/mans.cpmmodel"
+            },
+            {
+                "model": "test5:skinpacks/spb/johan.cpmmodel"
+	    },
+	    {
+	    	"model": "test5:skinpacks/spb/lydia.cpmmodel"
+	    },
+	    {
+	    	"model": "test5:skinpacks/spb/karin.cpmmodel"
+	    },
+	    {
+	    	"model": "test5:skinpacks/spb/kristoffer.cpmmodel"
+	    },
+	    {
+	    	"model": "test5:skinpacks/spb/nathan.cpmmodel"
+	    },
+	    {
+	    	"model": "test5:skinpacks/spb/erik.cpmmodel"
+	    },
+	    {
+	    	"model": "test5:skinpacks/spb/tommaso.cpmmodel"
+	    },
+	    {
+	    	"model": "test5:skinpacks/spb/redstone.cpmmodel"
+	    },
+	    {
+	    	"model": "test5:skinpacks/spb/endcreature.cpmmodel"
+	    },
+	    {
+	    	"model": "test5:skinpacks/spb/sandstone.cpmmodel"
+	    }
+
+        ]
+    }
+}

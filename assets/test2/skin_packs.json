@@ -1,0 +1,85 @@
+{
+    "test2:spb": {
+        "icon": "test2:textures/skinpacks/spb.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "test2:skinpacks/spb/partyredspartan.cpmmodel"
+            },
+            {
+                "model": "test2:skinpacks/spb/partybluespartan.cpmmodel"
+            },
+            {
+                "model": "test2:skinpacks/spb/partyplasticsteve.cpmmodel"
+            },
+            {
+                "model": "test2:skinpacks/spb/partyplasticcreeper.cpmmodel"
+            },
+            {
+                "model": "test2:skinpacks/spb/partyzombievillager.cpmmodel"
+            },
+            {
+   	        "model": "test2:skinpacks/spb/witch.cpmmodel"
+            },
+            {
+
+                "model": "test2:skinpacks/spb/partywitherskeleton.cpmmodel"
+            },
+            {
+                "model": "test2:skinpacks/spb/wither.cpmmodel"
+            },
+            {
+                "model": "test2:skinpacks/spb/partyredcat.cpmmodel"
+            },
+            {
+                "model": "test2:skinpacks/spb/partyblackcat.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/partysiamesecat.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/partyocelot.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/partyfidget.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/partydust.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/jackofblades.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/herochicken.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/horstachio.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/pretztail.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/fudgehog.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/conker.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/conkerlr.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/banjoandkazooie.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/kazooie.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/gruntilda.cpmmodel"
+	    },
+	    {
+	    	"model": "test2:skinpacks/spb/partygrunt.cpmmodel"
+	    }
+
+        ]
+    }
+}

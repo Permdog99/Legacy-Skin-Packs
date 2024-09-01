@@ -1,0 +1,137 @@
+{
+    "halloween:hmu": {
+        "icon": "halloween:textures/skinpacks/hmu.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "halloween:skinpacks/hmu/vampire.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/thegrimreaper.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/devil.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/dracula.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/frankensteinsmonster.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/mummy.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/werewolf.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/ghost.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/evilwizard.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/brideofdracula.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/brideoffrankenstein.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/ghoul.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/scaryclown.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/evilrobot.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/greggthegrimreaper.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/ancientmummy.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/zippyzombie.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/scarecrow.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/wickedwitch.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/drinsecto.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/insectoant.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/insectowasp.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/madscientist.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/treeface.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/stumpy.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/theinvisibleman.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/drjekyll.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/mrhyde.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/igor.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/baronsamedi.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/mamanbrigitte.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/steveanatomy.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/alexanatomy.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/ectoplasmsteve.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/ectoplasmalex.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/arrowheadcostume.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/knifeheadcostume.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/ghostpiratecostume.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/ghostpiratecostume2.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/maddoctorcostume.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/ghostcostume.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/swampmonstercostume.cpmmodel"
+            },
+            {
+                "model": "halloween:skinpacks/hmu/reptilemonstercostume.cpmmodel"
+            }
+        ]
+    }
+}

@@ -1,0 +1,122 @@
+{
+    "little:lbp": {
+        "icon": "little:textures/skinpacks/lbp.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "little:skinpacks/lbp/sackboy.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/sackboysteve.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/marvindiscodancer.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/rocksackgirl.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/groomsackboy.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/bridesackgirl.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/fairysackgirl.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/ninjasackboy.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/yukikoschoolgirl.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/dragonsackboy.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/devilsackboy.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/dinosaursackgirl.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/neonsackgirl.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/lionsackboy.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/sackbot.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/theking.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/thequeen.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/thegreatmagician.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/zedude.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/sheriffzapata.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/theterribleoni.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/shopkeeper.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/mariannenoisette.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/victoriavonbathysphere.cpmmodel"
+            },
+            {
+                "model": "little:skinpacks/lbp/clivehandforth.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/avalonecentrifuge.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/evesilvaparagorica.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/thenewtongood.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/marlonrandom.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/captainpud.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/papalmache.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/pinkybuflooms.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/nanapud.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/zomzom.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/smalltoggle.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/toggle.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/thenewtonevil.cpmmodel"
+            },
+			{
+                "model": "little:skinpacks/lbp/sackgirl.cpmmodel"
+            }
+        ]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "simp:smp": {
+        "icon": "simp:textures/skinpacks/smp.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "simp:skinpacks/smp/homersimpson.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/margesimpson.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/bartsimpson.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/lisasimpson.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/maggiesimpson.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/principalseymourskinner.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/mrsednakrabappel.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/groundskeeperwillie.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/ottomann.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/milhouse.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/nelsonmuntz.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/jimbojones.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/ralphwiggum.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/martinprince.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/kearney.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/dolph.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/wendell.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/database.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/uter.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/janeypowell.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/superintendentgarychalmers.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/mrdeweylargo.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/sherri.cpmmodel"
+            },
+            {
+                "model": "simp:skinpacks/smp/terri.cpmmodel"
+            }
+        ]
+    }
+}

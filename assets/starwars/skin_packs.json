@@ -1,0 +1,713 @@
+{
+    "starwars:swc": {
+        "icon": "starwars:textures/skinpacks/swc.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "starwars:skinpacks/swc/lukeskywalkertatooine.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/lukeskywalkerxwingpilot.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/lukeskywalkerbespin.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/lukeskywalkerhoth.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/lukeskywalkerdagobah.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/lukeskywalkerendor.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/lukeskywalkerjediknight.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/hansolosmuggler.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/hansolohoth.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/hansoloendor.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/chewbacca.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/princessleiaorgana.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/princessleiaorganayaviniv.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/princessleiaorganahoth.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/princessleiaorganabespin.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/princessleiaorganahuttslayer.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/princessleiaorganaendor.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/tuskenraider.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/stormtrooper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/darthvader.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/blockaderunnersoldier.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/c3po.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/benkenobi.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/cantinaband.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/tiefighterpilot.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/walrusman.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/hammerhead.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/greedo.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/governortarkin.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/landocalrissianbespin.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/bobafett.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/bossk.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/dengar.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/zuckuss.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/ig88.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/emperorpalpatine.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/atatpilot.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/lobot.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/rancorkeeper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/gamorreanguard.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/landocalrissianskiffguard.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/princessleiaorganaboushh.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/oola.cpmmodel"
+            },
+			{
+                "model": "starwars:skinpacks/swc/niennunb.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/bibfortuna.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/scouttrooper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/emperorsroyalguard.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/admiralackbar.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/r2d2.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/yoda.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/jawa.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/wampa.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/wicket.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/rancor.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swc/4lom.cpmmodel"
+            }
+        ]
+    },
+    "starwars:swp": {
+        "icon": "starwars:textures/skinpacks/swp.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "starwars:skinpacks/swp/anakinskywalkerjediknight.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/obiwankenobi.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/quigonjinn.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/queenamidalanaboothroneroom.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/senatorpadmeamidalageonosis.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/macewindu.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/darthmaul.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/senatorpalpatine.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/countdooku.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/generalgrievous.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/jangofett.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/watto.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/bossnass.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/aaylasecura.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/c3poprequel.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/clonecaptainrex.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/clonecommandercody.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/phase1clonetrooper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/clonetrooperphase2.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/securitybattledroid.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/commanderbattledroid.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/battledroidgeonosis.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/infantrybattledroid.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/pilotbattledroid.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/zamwesell.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/kiadimundi.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/lamasu.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/kitfisto.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/masamedda.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/captainpanaka.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/plokoon.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/pogglethelesser.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/captaintypho.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/nutegunray.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/padmeamidalapilotdisguise.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/queenamidalabattledress.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/padmeamidalapeasantdisguise.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/bailorgana.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/adigallia.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/magnaguard.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/clonecommandergree.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/kashyyyktrooper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/tionmedon.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/asajjventress.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/savageopress.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/anakinskywalkergeneral.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/obiwankenobigeneral.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/ahsokatano.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/clonecaptainrexphase1.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/clonecommandercodyphase1.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/clonecommandergreephase1.cpmmodel"
+            },
+			{
+                "model": "starwars:skinpacks/swp/hondoohnaka.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/cadbane.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/c3poonbattledroid.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/battledroidonc3po.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/superbattledroid.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/superbattledroidrocket.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/beru.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swp/owenlars.cpmmodel"
+            }
+        ]
+    },
+    "starwars:swr": {
+        "icon": "starwars:textures/skinpacks/swr.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "starwars:skinpacks/swr/ezrabridger.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/kananjarrus.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/herasyndulla.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/garazeborrelios.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/sabinewren.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/chopper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/thegrandinquisitor.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/agentkallus.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/atdppilot.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/stormtroopercommander.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/stormtroopertagged.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/cikatrovizago.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/igrmdroidvariant1.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/igrmdroidvariant2.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/lothalfarmer.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/gotal.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/makethtua.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/tseebo.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/rx24.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/imperialcadetezrabridger.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/commandantaresko.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/azmorigan.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/swr/senatorgalltrayvis.cpmmodel"
+            }
+        ]
+    },
+   "starwars:sws": {
+        "icon": "starwars:textures/skinpacks/sws.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "starwars:skinpacks/sws/reytheforceawakens.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/finntheforceawakens.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/poedamerontheforceawakens.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/generalleiaorganatheforceawakens.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/hansolotfa.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/chewbaccatfa.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/kylorentheforceawakens.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/snoke.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/captainphasma.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/stormtroopercommander.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/stormtrooperfn2199.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/generalarmitagehux.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/unkarplutt.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/guaviandeathgangleaderbalatik.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/gauviandeathganggrunt.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/tasuleech.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/razooqinfee.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/bazinenetal.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/quiggold.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/sidonithano.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/ensigngoode.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/grummgar.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/gwellisbagnoro.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/prusweevant.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/c3potfa.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/lukeskywalkerthelastjedi.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/elitetiefighterpilot.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/lieutenantconnix.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/pz4co.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/admiralackbartlj.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/elitepraetorianguard.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/rosetico.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/dj.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/paigetico.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/tallielintra.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/amilynholdo.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/niennunbtlj.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/caithrenalli.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/reythelastjedi.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/lukeskywalkerthelastjedi.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/kylorenthelastjedi.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/leiaorganathelastjedi.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/poedameronthelastjedi.cpmmodel"
+            },
+			{
+                "model": "starwars:skinpacks/sws/finnthelastjedi.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/pemminbrunce.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/centadaressad.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/slowenlo.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/defanciostorsilt.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/rigfuurcolla.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/bargwilltomder.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/cantobightpolice.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/executionerstormtrooper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/sws/butcherofbrix.cpmmodel"
+            }
+        ]
+    },
+   "starwars:slo": {
+        "icon": "starwars:textures/skinpacks/slo.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "starwars:skinpacks/slo/hansolocorellia.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/chewbaccasolo.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/qiracorellia.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/tobiasbeckett.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/landocalrissiansolo.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/val.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/riodurant.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/drydenvos.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/l337.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/kesselmineworker.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/rangetrooper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/mudtrooper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/mimbanstormtrooper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/hansolosolo.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/qiracrimsondawn.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/quaytolsite.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/rebolt.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/enfysnest.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/cloudrider.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/aemongremm.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/pykesentinel.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/mimbanesesoldier.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/sixeyes.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/moloch.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/imperialpatroltrooper.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/scumratbansee.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/scumratechates.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/emigrationofficer.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/aurodiaventafoli.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/sagwa.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/gm12l1.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/s1d6sa5.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/krysgulddartis.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/hansoloconveyexheist.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/ralakili.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/cloudrideralien.cpmmodel"
+            },
+            {
+                "model": "starwars:skinpacks/slo/melbutraveler.cpmmodel"
+            }
+        ]
+    }
+}

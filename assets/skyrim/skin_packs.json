@@ -1,0 +1,128 @@
+{
+    "skyrim:sky": {
+        "icon": "skyrim:textures/skinpacks/sky.png",
+        "type": "mashup",
+        "skins": [
+            {
+                "model": "skyrim:skinpacks/sky/dragonbornmale.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/dragonbornfemale.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/ancano.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/elenwen.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/argonianfighter.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/argonianmage.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/woodelfarcher.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/woodelfmage.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/bretonmage.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/forswornshaman.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/darkelfmage.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/darkelfassassin.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/imperialsoldier.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/vex.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/khajiitmerchant.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/stormcloaksoldier.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/lydia.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/orcblacksmith.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/orcwarriorfemale.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/nazir.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/saadia.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/vampirelord.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/isran.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/astrid.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/aelathehuntress.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/maiqtheliar.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/greybeard.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/frosttroll.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/flameatronach.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/dragonpriest.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/hagraven.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/draugrdeathlord.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/sheogorath.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/spriggan.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/dwarvencenturion.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/wispmother.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/dremoralord.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/masternecromancer.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/vilkas.cpmmodel"
+            },
+            {
+                "model": "skyrim:skinpacks/sky/orcwarriormale.cpmmodel"
+            }
+        ]
+    }
+}
