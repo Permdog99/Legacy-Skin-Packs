@@ -330,5 +330,12 @@
       {"model": "legacy_skinpacks:skinpacks/halloween_charity/zombieclimaxstudios.cpmmodel"},
       {"model": "legacy_skinpacks:skinpacks/halloween_charity/zombielonestarronimogames.cpmmodel"}
     ]
-  }
+  },
+    "legacy_skinpacks:mineconskinpack": {
+    "icon": "legacy_skinpacks:textures/skinpack_icons/minecon_skinpack.png",
+    "type": "skin",
+    "skins": [
+      {"model": "legacy_skinpacks:skinpacks/mineconskinpack/.cpmmodel"},
+    ]
+  },
 }
