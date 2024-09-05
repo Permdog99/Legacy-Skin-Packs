@@ -1,0 +1,90 @@
+{
+    "storymode:spb": {
+        "icon": "storymode:textures/skinpacks/spb.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "storymode:skinpacks/spb/1.cpmmodel"
+            },
+            {
+                "model": "storymode:skinpacks/spb/2.cpmmodel"
+            },
+            {
+                "model": "storymode:skinpacks/spb/3.cpmmodel"
+            },
+            {
+                "model": "storymode:skinpacks/spb/4.cpmmodel"
+            },
+            {
+                "model": "storymode:skinpacks/spb/5.cpmmodel"
+            },
+            {
+   	        "model": "storymode:skinpacks/spb/6.cpmmodel"
+            },
+            {
+                "model": "storymode:skinpacks/spb/7.cpmmodel"
+            },
+            {
+                "model": "storymode:skinpacks/spb/8.cpmmodel"
+            },
+            {
+                "model": "storymode:skinpacks/spb/9.cpmmodel"
+            },
+            {
+                "model": "storymode:skinpacks/spb/10.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/11.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/12.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/13.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/14.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/15.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/16.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/17.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/18.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/19.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/20.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/21.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/22.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/23.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/24.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/25.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/26.cpmmodel"
+	    },
+	    {
+	    	"model": "storymode:skinpacks/spb/27.cpmmodel"
+	    }
+
+        ]
+    }
+}
