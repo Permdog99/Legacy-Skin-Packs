@@ -94,7 +94,7 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 
 **Pigzone00:** For creating & maintaining the skin packs list, organization and the resource pack.
 
-**permdog99:** For recreating Skin packs 1, 2, 3, Minecraft 1st Birthday, Summer of Arcade, Halloween Charity, Battle & Beasts 1, 2.
+**permdog99:** For recreating Skin packs 1, 2, 3, Minecraft 1st Birthday, Summer of Arcade, Halloween Charity, Battle & Beasts 1, 2 and maintaining the GitHub repo.
 
 **MacaroniWithTheMayonnaise:** For recreating Skin packs 1, 3, Halloween Charity, Playstation Skin Pack 1, 2, 3.
 
