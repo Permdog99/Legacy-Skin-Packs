@@ -49,7 +49,7 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Biome Settlers Skin Pack 1|✅|✅|
 |Biome Settlers Skin Pack 2|✅|✅|
 |Strangers - Biome Settlers 3|✅|✅|
-|Story Mode Skin Pack|❌|✅|
+|Story Mode Skin Pack|✅|✅|
 |Redstone Specialists Skin Pack|❌|✅|
 |Villains Skin Pack|✅|✅|
 |Campfire Tales Skin Pack|✅|✅|
