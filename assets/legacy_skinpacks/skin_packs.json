@@ -407,6 +407,126 @@
 	    }
         ]
     },
+    "legacy_skinpacks:egyptian_mythology": {
+        "icon": "legacy_skinpacks:textures/skinpack_icons/egyptian_mythology.png",
+        "type": "skin",
+        "skins": [
+            {
+                "model": "legacy_skinpacks:skinpacks/egyptian_mythology/horus.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/ra.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/anubis.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/bastet.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/bes.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/khonsu.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/amun.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/osiris.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/thoth.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/hathor.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/sekhmet.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/geb.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/mut.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/isis.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/set.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/maat.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/serket.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/khepri.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/ptah.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/apep.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/ammut.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/sobek.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/heka.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/tutankhamun.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/ramessesii.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/nefertari.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/cleopatra.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/akhenaten.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/nefertiti.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/thutmoseiii.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/hatshepsut.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/kingkhufu.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/merneith.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/seer.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/ba.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/ancientmummy.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/sphinx.cpmmodel"
+	    },
+	    {
+    		"model": ""legacy_skinpacks:skinpacks/egyptian_mythology/hieracosphinx.cpmmodel"
+	    }
+        ]
+    },
    "legacy_skinpacks:festive_mashup": {
         "icon": "legacy_skinpacks:textures/skinpack_icons/festive_mashup.png",
         "type": "mashup",
