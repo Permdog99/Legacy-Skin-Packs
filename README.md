@@ -53,6 +53,7 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Redstone Specialists Skin Pack|❌|✅|
 |Villains Skin Pack|✅|✅|
 |Campfire Tales Skin Pack|✅|✅|
+|Final Fantasy XV Skin Pack|✅|✅|
 |Mighty Morphin Power Rangers|✅|✅|
 |Magic: The Gathering Skin Pack|❌|✅|
 |Battle & Beasts Skin Pack|✅|✅|
@@ -68,7 +69,7 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 |Skyrim Mash-up pack|✅|✅|
 |Adventure Time Mash-up pack|❌|✅|
 |Halo Mash-up pack|❌|✖️|
-|Super Mario Mash-up pack|❌|[✖️](https://cdn.discordapp.com/attachments/1275454154260611205/1277491564226150421/MarioSkins.zip?ex=6726597b&is=672507fb&hm=e1c2859b4e3c131d2d88a9b3a54bd4d5a5d779a385205f71a09eb3fc4a9d459a&)|
+|Super Mario Mash-up pack|❌|[✖️](https://cdn.discordapp.com/attachments/1275454154260611205/1277491564226150421/MarioSkins.zip?ex=66f591fb&is=66f4407b&hm=40dda1e6138b2cf1021dcd0a599310418a740b23770ff06f42c8d8a844cda61d&)|
 |Mass Effect Mash-up pack|✅|✅|
 |Egyptian Mythology Mash-up pack|❌|✅|
 |Little Big Planet Mash-up pack|✅|✅|
@@ -100,7 +101,7 @@ Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.c
 
 **SpawnOfZap:** For recreating Skin packs Biome Settlers 1, Summer of Arcade.
 
-**Raiden:** For recreating Skin packs Minecraft 2nd & 3rd Birthday, Campfire Tales, 2nd Birthday - PS3, Villains.
+**Raiden:** For recreating Skin packs Minecraft 2nd & 3rd Birthday, Campfire Tales, 2nd Birthday - PS3, Villains, Final Fantasy XV.
 
 **Lyn:** For recreating Skyrim Mash-Up, LittleBigPlanet Mash-Up, Mass Effect Mash-Up, Simpsons, Power Rangers, Halloween 2015 Mash-Up, Star Wars Classic, Star Wars Rebels, Star Wars Prequel, Star Wars Sequel, Solo: A Star Wars Story, Marvel Avengers, Festive 2012, Festive 2014 Mash-Up, Classic Skin packs 1, 2, 3, 4, 5, and 6, Minecon 2015 Pack.
 
