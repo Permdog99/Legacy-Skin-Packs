@@ -1,6 +1,6 @@
 # Legacy Skin Packs
 
-Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.com/mod/legacy4j) and [LegacySkins](https://modrinth.com/mod/legacy-skins) that aims to bring back all the Skin Packs from the Legacy Console Editions of Minecraft.
+Legacy Skin Packs is a resource pack made for mods [Legacy4J](https://modrinth.com/mod/legacy4j) and [LegacySkins](https://modrinth.com/mod/legacy-skins) that aims to bring back all the Skin Packs from the Legacy Console Editions of Minecraft. Original textures by 4J Studios.
 
 ## Currently done:
 
