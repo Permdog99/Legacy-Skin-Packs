@@ -3370,5 +3370,131 @@
 	    }
 
         ]
-    }
+    },
+  "legacy_skinpacks:mariomashup": {
+    "icon": "legacy_skinpacks:textures/skinpack_icons/supermario.png",
+    "type": "mashup",
+    "skins": [
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/mario.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/mariowithfludd.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/luigi.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/luigiwithpoltergust.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/peach.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/yoshi.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/bowser.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/toad.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/captaintoad.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/donkeykong.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/diddykong.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/daisy.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/wario.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/waluigi.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/peteypiranha.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/lemmy.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/wendy.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/morton.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/larry.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/iggy.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/roy.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/ludwig.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/rosalina.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/toadette.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/birdo.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/drmario.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/kamek.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/koopatroopa.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/shyguy.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/hammerbro.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/boomboom.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/kitsuneluigi.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/drybones.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/bowserjr.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/firemario.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/tanookimario.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/boomerangmario.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/propellermario.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/catmario.cpmmodel"
+      },
+      {
+        "model": "legacy_skinpacks:skinpacks/mariomashup/catpeach.cpmmodel"
+      }
+    ]
+  }
 }
